@@ -1,3 +1,3 @@
 Personal Portfolio ⚡️
 A clean, beautiful, responsive portfolio template for Full Stack Developers!
-https://github.com/mrrajeev11/rajeevnayan.github.io/
+https://mrrajeev11.github.io/rajeevnayan.github.io/
